@@ -1,7 +1,7 @@
 # Arduino-IR-LED-Control
 
 # Controle de LEDs por Infravermelho com Arduino
-Simule no Tinkercad(https://www.tinkercad.com/things/hVh4aAiPIvL-millis)
+Simule no Tinkercad(https://www.tinkercad.com/things/hMIk75y7iCq-ir-remote)
 Este é um projeto simples que demonstra como controlar LEDs usando um controle remoto infravermelho com um Arduino.
 
 ## Funcionamento
@@ -26,5 +26,5 @@ O projeto utiliza um receptor infravermelho para receber os sinais de um control
 
 ## Créditos
 
-Autor: Elismar SIlva.
-Contato: elismar.tec19@gmail.com.  
+*Autor: Elismar SIlva.
+*Contato: elismar.tec19@gmail.com.  
