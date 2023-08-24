@@ -25,5 +25,6 @@ O projeto utiliza um receptor infravermelho para receber os sinais de um control
 5. Pressione os botões do controle remoto para ligar ou desligar os LEDs.
 
 ##Créditos
-**Autor: Elismar SIlva 
-**Contato:** elismar.tec19@gmail.com  
+
+Autor: Elismar SIlva 
+Contato: elismar.tec19@gmail.com  
